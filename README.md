@@ -176,7 +176,156 @@ Flowchart examples of the canonical&nbsp;<a title="Structured program theorem" h
 <p><em>Structured programming, canonical structures</em>: Per the&nbsp;<a title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a>, any algorithm can be computed by a model known to be&nbsp;<a class="mw-redirect" title="Turing complete" href="https://en.wikipedia.org/wiki/Turing_complete">Turing complete</a>, and per Minsky's demonstrations, Turing completeness requires only four instruction types&mdash;conditional GOTO, unconditional GOTO, assignment, HALT. Kemeny and Kurtz observe that, while "undisciplined" use of unconditional GOTOs and conditional IF-THEN GOTOs can result in "<a title="Spaghetti code" href="https://en.wikipedia.org/wiki/Spaghetti_code">spaghetti code</a>", a programmer can write structured programs using only these instructions; on the other hand "it is also possible, and not too hard, to write badly structured programs in a structured language".&nbsp;Tausworthe augments the three&nbsp;<a title="Structured program theorem" href="https://en.wikipedia.org/wiki/Structured_program_theorem">B&ouml;hm-Jacopini canonical structures</a>:&nbsp;SEQUENCE, IF-THEN-ELSE, and WHILE-DO, with two more: DO-WHILE and CASE.&nbsp;An additional benefit of a structured program is that it lends itself to&nbsp;<a class="mw-redirect" title="Proof of correctness" href="https://en.wikipedia.org/wiki/Proof_of_correctness">proofs of correctness</a>&nbsp;using&nbsp;<a title="Mathematical induction" href="https://en.wikipedia.org/wiki/Mathematical_induction">mathematical induction</a>.</p>
 <p><em>Canonical flowchart symbols</em>: The graphical aide called a&nbsp;<a title="Flowchart" href="https://en.wikipedia.org/wiki/Flowchart">flowchart</a>, offers a way to describe and document an algorithm (and a computer program of one). Like the program flow of a Minsky machine, a flowchart always starts at the top of a page and proceeds down. Its primary symbols are only four: the directed arrow showing program flow, the rectangle (SEQUENCE, GOTO), the diamond (IF-THEN-ELSE), and the dot (OR-tie). The B&ouml;hm&ndash;Jacopini canonical structures are made of these primitive shapes. Sub-structures can "nest" in rectangles, but only if a single exit occurs from the superstructure. The symbols, and their use to build the canonical structures are shown in the diagram.</p>
 
-
+<h2><span id="Examples" class="mw-headline">Examples</span></h2>
+<h3><span id="Algorithm_example" class="mw-headline">Algorithm example</span></h3>
+<p>One of the simplest algorithms is to find the largest number in a list of numbers of random order. Finding the solution requires looking at every number in the list. From this follows a simple algorithm, which can be stated in a high-level description in English prose, as:</p>
+<p><em>High-level description:</em></p>
+<ol>
+<li>If there are no numbers in the set then there is no highest number.</li>
+<li>Assume the first number in the set is the largest number in the set.</li>
+<li>For each remaining number in the set: if this number is larger than the current largest number, consider this number to be the largest number in the set.</li>
+<li>When there are no numbers left in the set to iterate over, consider the current largest number to be the largest number of the set.</li>
+</ol>
+<p><em>(Quasi-)formal description:</em>&nbsp;Written in prose but much closer to the high-level language of a computer program, the following is the more formal coding of the algorithm in&nbsp;<a title="Pseudocode" href="https://en.wikipedia.org/wiki/Pseudocode">pseudocode</a>&nbsp;or&nbsp;<a title="Pidgin code" href="https://en.wikipedia.org/wiki/Pidgin_code">pidgin code</a>:</p>
+<div>
+<pre><strong>Algorithm</strong> LargestNumber
+  Input: A list of numbers <em>L</em>.
+  Output: The largest number in the list <em>L</em>.
+</pre>
+<pre>  <strong>if</strong> <em>L.size</em> = 0 <strong>return</strong> null
+  <em>largest</em> &larr; <em>L</em>[0]
+  <strong>for each</strong> <em>item</em> <strong>in</strong> <em>L</em>, <strong>do</strong>
+    <strong>if</strong> <em>item</em> &gt; <em>largest</em>, <strong>then</strong>
+      <em>largest</em> &larr; <em>item</em>
+  <strong>return</strong> <em>largest</em>
+</pre>
+<ul>
+<li><small>"&larr;" denotes&nbsp;<a title="Assignment (computer science)" href="https://en.wikipedia.org/wiki/Assignment_(computer_science)">assignment</a>. For instance, "<em>largest</em>&nbsp;&larr;&nbsp;<em>item</em>" means that the value of&nbsp;<em>largest</em>&nbsp;changes to the value of&nbsp;<em>item</em>.</small></li>
+<li><small>"<strong>return</strong>" terminates the algorithm and outputs the following value.</small></li>
+</ul>
+</div>
+<h3><span id="Euclid.27s_algorithm"></span><span id="Euclid's_algorithm" class="mw-headline">Euclid's algorithm</span></h3>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<div class="thumb tleft">
+<div class="thumbinner"><a class="image" href="3.png"><img class="thumbimage" src="3.png" srcset="3.png" alt="" width="250" height="263" data-file-width="475" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+The example-diagram of Euclid's algorithm from T.L. Heath (1908), with more detail added. Euclid does not go beyond a third measuring and gives no numerical examples. Nicomachus gives the example of 49 and 21: "I subtract the less from the greater; 28 is left; then again I subtract from this the same 21 (for this is possible); 7 is left; I subtract this from 21, 14 is left; from which I again subtract 7 (for this is possible); 7 is left, but 7 cannot be subtracted from 7." Heath comments that "The last phrase is curious, but the meaning of it is obvious enough, as also the meaning of the phrase about ending 'at one and the same number'."(Heath 1908:300).</div>
+</div>
+</div>
+<p><a title="Euclid" href="https://en.wikipedia.org/wiki/Euclid">Euclid</a>'s algorithm to compute the&nbsp;<a title="Greatest common divisor" href="https://en.wikipedia.org/wiki/Greatest_common_divisor">greatest common divisor</a>&nbsp;(GCD) to two numbers appears as Proposition II in Book VII ("Elementary Number Theory") of his&nbsp;<em><a title="Euclid's Elements" href="https://en.wikipedia.org/wiki/Euclid%27s_Elements">Elements</a></em>.&nbsp;Euclid poses the problem thus: "Given two numbers not prime to one another, to find their greatest common measure". He defines "A number [to be] a multitude composed of units": a counting number, a positive integer not including zero. To "measure" is to place a shorter measuring length&nbsp;<em>s</em>&nbsp;successively (<em>q</em>&nbsp;times) along longer length&nbsp;<em>l</em>&nbsp;until the remaining portion&nbsp;<em>r</em>&nbsp;is less than the shorter length&nbsp;<em>s</em>.&nbsp;In modern words, remainder&nbsp;<em>r</em>&nbsp;=&nbsp;<em>l</em>&nbsp;&minus;&nbsp;<em>q</em>&times;<em>s</em>,&nbsp;<em>q</em>&nbsp;being the quotient, or remainder&nbsp;<em>r</em>&nbsp;is the "modulus", the integer-fractional part left over after the division.</p>
+<p>For Euclid's method to succeed, the starting lengths must satisfy two requirements: (i) the lengths must not be zero, AND (ii) the subtraction must be &ldquo;proper&rdquo;; i.e., a test must guarantee that the smaller of the two numbers is subtracted from the larger (or the two can be equal so their subtraction yields zero).</p>
+<p>Euclid's original proof adds a third requirement: the two lengths must not be prime to one another. Euclid stipulated this so that he could construct a&nbsp;<a title="Reductio ad absurdum" href="https://en.wikipedia.org/wiki/Reductio_ad_absurdum">reductio ad absurdum</a>&nbsp;proof that the two numbers' common measure is in fact the&nbsp;<em>greatest</em>.&nbsp;While Nicomachus' algorithm is the same as Euclid's, when the numbers are prime to one another, it yields the number "1" for their common measure. So, to be precise, the following is really Nicomachus' algorithm.</p>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="4.gif"><img class="thumbimage" src="4.gif" srcset="4.gif" alt="" width="350" height="210" data-file-width="500" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+A graphical expression of Euclid's algorithm to find the greatest common divisor for 1599 and 650.
+<div class="mw-highlight mw-highlight-lang-text mw-content-ltr" dir="ltr">
+<pre><span class="hll"> 1599 = 650&times;2 + 299
+</span> 650 = 299&times;2 + 52
+ 299 = 52&times;5 + 39
+ 52 = 39&times;1 + 13
+<span class="hll"> 39 = 13&times;3 + 0
+</span></pre>
+</div>
+</div>
+</div>
+</div>
+<h4><span id="Computer_language_for_Euclid.27s_algorithm"></span><span id="Computer_language_for_Euclid's_algorithm" class="mw-headline">Computer language for Euclid's algorithm</span></h4>
+<p>Only a few instruction&nbsp;<em>types</em>&nbsp;are required to execute Euclid's algorithm&mdash;some logical tests (conditional GOTO), unconditional GOTO, assignment (replacement), and subtraction.</p>
+<ul>
+<li>A&nbsp;<em>location</em>&nbsp;is symbolized by upper case letter(s), e.g. S, A, etc.</li>
+<li>The varying quantity (number) in a location is written in lower case letter(s) and (usually) associated with the location's name. For example, location L at the start might contain the number&nbsp;<em>l</em>&nbsp;= 3009.</li>
+</ul>
+<h4><span id="An_inelegant_program_for_Euclid.27s_algorithm"></span><span id="An_inelegant_program_for_Euclid's_algorithm" class="mw-headline">An inelegant program for Euclid's algorithm</span></h4>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="5.png"><img class="thumbimage" src="5.png" srcset="5.png" alt="" width="163" height="349" data-file-width="326" data-file-height="698" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+"Inelegant" is a translation of Knuth's version of the algorithm with a subtraction-based remainder-loop replacing his use of division (or a "modulus" instruction). Derived from Knuth 1973:2&ndash;4. Depending on the two numbers "Inelegant" may compute the g.c.d. in fewer steps than "Elegant".</div>
+</div>
+</div>
+<p>The following algorithm is framed as Knuth's four-step version of Euclid's and Nicomachus', but, rather than using division to find the remainder, it uses successive subtractions of the shorter length&nbsp;<em>s</em>&nbsp;from the remaining length&nbsp;<em>r</em>&nbsp;until&nbsp;<em>r</em>&nbsp;is less than&nbsp;<em>s</em>. The high-level description, shown in boldface, is adapted from Knuth 1973:2&ndash;4:</p>
+<p><strong>INPUT</strong>:</p>
+<pre><span id="el1"></span><span id="1">1</span> [Into two locations L and S put the numbers <em>l</em> and <em>s</em> that represent the two lengths]:
+  INPUT L, S
+<span id="el2"></span><span id="2">2</span> [Initialize R: make the remaining length <em>r</em> equal to the starting/initial/input length <em>l</em>]:
+  R &larr; L
+</pre>
+<p><strong>E0: [Ensure&nbsp;<em>r</em>&nbsp;&ge;&nbsp;<em>s</em>.]</strong></p>
+<pre><span id="el3"></span><span id="3">3</span> [Ensure the smaller of the two numbers is in S and the larger in R]:
+  IF R &gt; S THEN
+    the contents of L is the larger number so skip over the exchange-steps <a href="https://en.wikipedia.org/wiki/Algorithm#4">4</a>, <a href="https://en.wikipedia.org/wiki/Algorithm#5">5</a> and <a href="https://en.wikipedia.org/wiki/Algorithm#6">6</a>:
+    GOTO step <a href="https://en.wikipedia.org/wiki/Algorithm#6">6</a>
+  ELSE
+    swap the contents of R and S.
+<span id="el4"></span><span id="4">4</span>   L &larr; R (this first step is redundant, but is useful for later discussion).
+<span id="el5"></span><span id="5">5</span>   R &larr; S
+<span id="el6"></span><span id="6">6</span>   S &larr; L
+</pre>
+<p><strong>E1: [Find remainder]</strong>: Until the remaining length&nbsp;<em>r</em>&nbsp;in R is less than the shorter length&nbsp;<em>s</em>&nbsp;in S, repeatedly subtract the measuring number&nbsp;<em>s</em>&nbsp;in S from the remaining length&nbsp;<em>r</em>&nbsp;in R.</p>
+<pre><span id="el7"></span><span id="7">7</span> IF S &gt; R THEN
+    done measuring so
+    GOTO <a href="https://en.wikipedia.org/wiki/Algorithm#10">10</a>
+  ELSE
+    measure again,
+<span id="el8"></span><span id="8">8</span>   R &larr; R &minus; S
+<span id="el9"></span><span id="9">9</span>   [Remainder-loop]:
+    GOTO <a href="https://en.wikipedia.org/wiki/Algorithm#7">7</a>.
+</pre>
+<p><strong>E2: [Is the remainder zero?]</strong>: EITHER (i) the last measure was exact, the remainder in R is zero, and the program can halt, OR (ii) the algorithm must continue: the last measure left a remainder in R less than measuring number in S.</p>
+<pre><span id="el10"></span><span id="10">10</span> IF R = 0 THEN
+     done so
+     GOTO <a href="https://en.wikipedia.org/wiki/Algorithm#15">step 15</a>
+   ELSE
+     CONTINUE TO <a href="https://en.wikipedia.org/wiki/Algorithm#11">step 11</a>,
+</pre>
+<p><strong>E3: [Interchange&nbsp;<em>s</em>&nbsp;and&nbsp;<em>r</em>]</strong>: The nut of Euclid's algorithm. Use remainder&nbsp;<em>r</em>&nbsp;to measure what was previously smaller number&nbsp;<em>s</em>; L serves as a temporary location.</p>
+<pre><span id="el11"></span><span id="11">11</span>  L &larr; R
+<span id="el12"></span><span id="12">12</span>  R &larr; S
+<span id="el13"></span><span id="13">13</span>  S &larr; L
+<span id="el14"></span><span id="14">14</span>  [Repeat the measuring process]:
+    GOTO <a href="https://en.wikipedia.org/wiki/Algorithm#7">7</a>
+</pre>
+<p><strong>OUTPUT</strong>:</p>
+<pre><span id="el15"></span><span id="15">15</span> [Done. S contains the <a title="Greatest common divisor" href="https://en.wikipedia.org/wiki/Greatest_common_divisor">greatest common divisor</a>]:
+   PRINT S
+</pre>
+<p><strong>DONE</strong>:</p>
+<pre><span id="el16"></span><span id="16">16</span> HALT, END, STOP.
+</pre>
+<h4><span id="An_elegant_program_for_Euclid.27s_algorithm"></span><span id="An_elegant_program_for_Euclid's_algorithm" class="mw-headline">An elegant program for Euclid's algorithm</span></h4>
+<p><span class="clarify-content">The following version of Euclid's algorithm requires only six core instructions to do what thirteen are required to do by "Inelegant"; worse, "Inelegant" requires more&nbsp;<em>types</em>&nbsp;of instructions.</span>&nbsp;The flowchart of "Elegant" can be found at the top of this article. In the (unstructured) Basic language, the steps are numbered, and the instruction&nbsp;<code class="mw-highlight mw-highlight-lang-cbmbas" dir="ltr"><span class="kd">LET</span>&nbsp;<span class="err">[]</span>&nbsp;<span class="o">=</span>&nbsp;<span class="err">[]</span></code>&nbsp;is the assignment instruction symbolized by &larr;.</p>
+<div class="mw-highlight mw-highlight-lang-cbmbas mw-content-ltr" dir="ltr">
+<pre>  <span class="mf">5</span> <span class="c1">REM Euclid's algorithm for greatest common divisor</span>
+  <span class="mf">6</span> <span class="kr">PRINT</span> <span class="s">"Type two integers greater than 0"</span>
+  <span class="mf">10</span> <span class="kr">INPUT</span> <span class="n">A</span><span class="p">,</span><span class="n">B</span>
+  <span class="mf">20</span> <span class="kr">IF</span> <span class="n">B</span><span class="o">=</span><span class="mf">0</span> <span class="kr">THEN</span> <span class="kr">GOTO</span> <span class="mf">80</span>
+  <span class="mf">30</span> <span class="kr">IF</span> <span class="n">A</span> <span class="o">&gt;</span> <span class="n">B</span> <span class="kr">THEN</span> <span class="kr">GOTO</span> <span class="mf">60</span>
+  <span class="mf">40</span> <span class="kd">LET</span> <span class="n">B</span><span class="o">=</span><span class="n">B</span><span class="o">-</span><span class="n">A</span>
+  <span class="mf">50</span> <span class="kr">GOTO</span> <span class="mf">20</span>
+  <span class="mf">60</span> <span class="kd">LET</span> <span class="n">A</span><span class="o">=</span><span class="n">A</span><span class="o">-</span><span class="n">B</span>
+  <span class="mf">70</span> <span class="kr">GOTO</span> <span class="mf">20</span>
+  <span class="mf">80</span> <span class="kr">PRINT</span> <span class="n">A</span>
+  <span class="mf">90</span> <span class="kr">END</span>
+</pre>
+</div>
+<p><em>How "Elegant" works</em>: In place of an outer "Euclid loop", "Elegant" shifts back and forth between two "co-loops", an A &gt; B loop that computes A &larr; A &minus; B, and a B &le; A loop that computes B &larr; B &minus; A. This works because, when at last the minuend M is less than or equal to the subtrahend S (Difference = Minuend &minus; Subtrahend), the minuend can become&nbsp;<em>s</em>&nbsp;(the new measuring length) and the subtrahend can become the new&nbsp;<em>r</em>&nbsp;(the length to be measured); in other words the "sense" of the subtraction reverses.</p>
+<p>The following version can be used with&nbsp;<a title="Object-oriented programming" href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented languages</a>:</p>
+<div class="mw-highlight mw-highlight-lang-java mw-content-ltr" dir="ltr">
+<pre><span class="c1">// Euclid's algorithm for greatest common divisor</span>
+<span class="kt">int</span> <span class="nf">euclidAlgorithm</span> <span class="p">(</span><span class="kt">int</span> <span class="n">A</span><span class="p">,</span> <span class="kt">int</span> <span class="n">B</span><span class="p">){</span>
+     <span class="n">A</span><span class="o">=</span><span class="n">Math</span><span class="p">.</span><span class="na">abs</span><span class="p">(</span><span class="n">A</span><span class="p">);</span>
+     <span class="n">B</span><span class="o">=</span><span class="n">Math</span><span class="p">.</span><span class="na">abs</span><span class="p">(</span><span class="n">B</span><span class="p">);</span>
+     <span class="k">while</span> <span class="p">(</span><span class="n">B</span><span class="o">!=</span><span class="mi">0</span><span class="p">){</span>
+          <span class="k">if</span> <span class="p">(</span><span class="n">A</span><span class="o">&gt;</span><span class="n">B</span><span class="p">)</span> <span class="n">A</span><span class="o">=</span><span class="n">A</span><span class="o">-</span><span class="n">B</span><span class="p">;</span>
+          <span class="k">else</span> <span class="n">B</span><span class="o">=</span><span class="n">B</span><span class="o">-</span><span class="n">A</span><span class="p">;</span>
+     <span class="p">}</span>
+     <span class="k">return</span> <span class="n">A</span><span class="p">;</span>
+<span class="p">}</span>
+</pre>
+</div>
 
 
 
