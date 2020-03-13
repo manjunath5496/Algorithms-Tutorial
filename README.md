@@ -479,3 +479,63 @@ A graphical expression of Euclid's algorithm to find the greatest common divisor
 <dl>
 <dd>"A set of directions applicable to a general problem sets up a deterministic process when applied to each specific problem. This process terminates only when it comes to the direction of type (C ) [i.e., STOP]".&nbsp;</dd>
 </dl>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="6.jpg"><img class="thumbimage" src="6.jpg" srcset="6.jpg" alt="" width="200" height="150" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedia.org/wiki/Bletchley_Park">Bletchley Park</a></div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<p><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>'s work&nbsp;preceded that of Stibitz (1937); it is unknown whether Stibitz knew of the work of Turing. Turing's biographer believed that Turing's use of a typewriter-like model derived from a youthful interest: "Alan had dreamt of inventing typewriters as a boy; Mrs. Turing had a typewriter, and he could well have begun by asking himself what was meant by calling a typewriter 'mechanical'".&nbsp;Given the prevalence of Morse code and telegraphy, ticker tape machines, and teletypewriters we&nbsp;might conjecture that all were influences.</p>
+<p>Turing&mdash;his model of computation is now called a&nbsp;<a title="Turing machine" href="https://en.wikipedia.org/wiki/Turing_machine">Turing machine</a>&mdash;begins, as did Post, with an analysis of a human computer that he whittles down to a simple set of basic motions and "states of mind". But he continues a step further and creates a machine as a model of computation of numbers.</p>
+<dl>
+<dd>"Computing is normally done by writing certain symbols on paper. We may suppose this paper is divided into squares like a child's arithmetic book...I assume then that the computation is carried out on one-dimensional paper, i.e., on a tape divided into squares. I shall also suppose that the number of symbols which may be printed is finite...</dd>
+</dl>
+<dl>
+<dd>"The behavior of the computer at any moment is determined by the symbols which he is observing, and his "state of mind" at that moment. We may suppose that there is a bound B to the number of symbols or squares which the computer can observe at one moment. If he wishes to observe more, he must use successive observations. We will also suppose that the number of states of mind which need be taken into account is finite...</dd>
+</dl>
+<dl>
+<dd>"Let us imagine that the operations performed by the computer to be split up into 'simple operations' which are so elementary that it is not easy to imagine them further divided."</dd>
+</dl>
+<p>Turing's reduction yields the following:</p>
+<dl>
+<dd>"The simple operations must therefore include:
+<dl>
+<dd>"(a) Changes of the symbol on one of the observed squares</dd>
+<dd>"(b) Changes of one of the squares observed to another square within L squares of one of the previously observed squares.</dd>
+</dl>
+</dd>
+</dl>
+<p>"It may be that some of these change necessarily invoke a change of state of mind. The most general single operation must, therefore, be taken to be one of the following:</p>
+<dl>
+<dd>
+<dl>
+<dd>"(A) A possible change (a) of symbol together with a possible change of state of mind.</dd>
+<dd>"(B) A possible change (b) of observed squares, together with a possible change of state of mind"</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>"We may now construct a machine to do the work of this computer."</dd>
+</dl>
+<p>A few years later, Turing expanded his analysis (thesis, definition) with this forceful expression of it:</p>
+<dl>
+<dd>"A function is said to be "effectively calculable" if its values can be found by some purely mechanical process. Though it is fairly easy to get an intuitive grasp of this idea, it is nevertheless desirable to have some more definite, mathematical expressible definition ... [he discusses the history of the definition pretty much as presented above with respect to G&ouml;del, Herbrand, Kleene, Church, Turing, and Post] ... We may take this statement literally, understanding by a purely mechanical process one which could be carried out by a machine. It is possible to give a mathematical description, in a certain normal form, of the structures of these machines. The development of these ideas leads to the author's definition of a computable function, and to an identification of computability &dagger; with effective calculability ... .
+<dl>
+<dd>"&dagger; We shall use the expression "computable function" to mean a function calculable by a machine, and we let "effectively calculable" refer to the intuitive idea without particular identification with any one of these definitions".</dd>
+</dl>
+</dd>
+</dl>
+<h3><span id="J.B._Rosser_.281939.29_and_S.C._Kleene_.281943.29"></span><span id="J.B._Rosser_(1939)_and_S.C._Kleene_(1943)" class="mw-headline">J.B. Rosser (1939) and S.C. Kleene (1943)</span></h3>
+<p><a title="J. Barkley Rosser" href="https://en.wikipedia.org/wiki/J._Barkley_Rosser">J. Barkley Rosser</a>&nbsp;defined an 'effective [mathematical] method' in the following manner (italicization added):</p>
+<dl>
+<dd>"'Effective method' is used here in the rather special sense of a method each step of which is precisely determined and which is certain to produce the answer in a finite number of steps. With this special meaning, three different precise definitions have been given to date. [his footnote #5; see discussion immediately below]. The simplest of these to state (due to Post and Turing) says essentially that&nbsp;<em>an effective method of solving certain sets of problems exists if one can build a machine which will then solve any problem of the set with no human intervention beyond inserting the question and (later) reading the answer</em>. All three definitions are equivalent, so it doesn't matter which one is used. Moreover, the fact that all three are equivalent is a very strong argument for the correctness of any one." (Rosser 1939:225&ndash;226)</dd>
+</dl>
+<p>Rosser's footnote No. 5 references the work of (1) Church and Kleene and their definition of &lambda;-definability, in particular Church's use of it in his&nbsp;<em>An Unsolvable Problem of Elementary Number Theory</em>&nbsp;(1936); (2) Herbrand and G&ouml;del and their use of recursion in particular G&ouml;del's use in his famous paper&nbsp;<em>On Formally Undecidable Propositions of Principia Mathematica and Related Systems I</em>&nbsp;(1931); and (3) Post (1936) and Turing (1936&ndash;37) in their mechanism-models of computation.</p>
+<p><a class="mw-redirect" title="Stephen C. Kleene" href="https://en.wikipedia.org/wiki/Stephen_C._Kleene">Stephen C. Kleene</a>&nbsp;defined as his now-famous "Thesis I" known as the&nbsp;<a title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a>. But he did this in the following context (boldface in original):</p>
+<dl>
+<dd>"12.&nbsp;<em>Algorithmic theories</em>... In setting up a complete algorithmic theory, what we do is to describe a procedure, performable for each set of values of the independent variables, which procedure necessarily terminates and in such manner that from the outcome we can read a definite answer, "yes" or "no," to the question, "is the predicate value true?"" (Kleene 1943:273)</dd>
+</dl>
+<h3><span id="History_after_1950" class="mw-headline">History after 1950</span></h3>
+<p>A number of efforts have been directed toward further refinement of the definition of "algorithm", and activity is on-going because of issues surrounding, in particular,&nbsp;<a title="Foundations of mathematics" href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundations of mathematics</a>&nbsp;(especially the&nbsp;<a title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a>) and&nbsp;<a title="Philosophy of mind" href="https://en.wikipedia.org/wiki/Philosophy_of_mind">philosophy of mind</a>&nbsp;(especially arguments about&nbsp;<a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>). For more, see&nbsp;<a title="Algorithm characterizations" href="https://en.wikipedia.org/wiki/Algorithm_characterizations">Algorithm characterizations</a>.</p>
