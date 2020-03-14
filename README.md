@@ -59,6 +59,8 @@
 <li class="toclevel-2 tocsection-36"><a href="#History_after_1950"><span class="toctext">History after 1950</span></a></li>
 </ul>
 </li>
+ <li class="toclevel-2 tocsection-37"><a href="#Books"><span class="toctext">Books</span></a></li> 
+  
 </ul>
 <h2><span id="Etymology" class="mw-headline">Etymology</span></h2>
 <p>The word 'algorithm' has its roots in Latinizing the name of Persian mathematician&nbsp;<a title="Muhammad ibn Musa al-Khwarizmi" href="https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi">Muhammad ibn Musa al-Khwarizmi</a>&nbsp;in the first steps to&nbsp;<em>algorismus</em>.&nbsp;Al-Khwārizmī (<a title="Persian language" href="https://en.wikipedia.org/wiki/Persian_language">Persian</a>:&nbsp;<span dir="rtl" lang="fa">خوارزمی</span>&lrm;, c. 780&ndash;850) was a Persian mathematician,&nbsp;<a title="Astronomer" href="https://en.wikipedia.org/wiki/Astronomer">astronomer</a>,&nbsp;<a title="Geographer" href="https://en.wikipedia.org/wiki/Geographer">geographer</a>, and scholar in the&nbsp;<a title="House of Wisdom" href="https://en.wikipedia.org/wiki/House_of_Wisdom">House of Wisdom</a>&nbsp;in&nbsp;<a title="Baghdad" href="https://en.wikipedia.org/wiki/Baghdad">Baghdad</a>,&nbsp;whose name means 'the native of&nbsp;<a title="Khwarazm" href="https://en.wikipedia.org/wiki/Khwarazm">Khwarazm</a>', a region that was part of&nbsp;<a title="Greater Iran" href="https://en.wikipedia.org/wiki/Greater_Iran">Greater Iran</a>&nbsp;and is now in&nbsp;<a title="Uzbekistan" href="https://en.wikipedia.org/wiki/Uzbekistan">Uzbekistan</a>.</p>
