@@ -541,3 +541,114 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 </dl>
 <h3><span id="History_after_1950" class="mw-headline">History after 1950</span></h3>
 <p>A number of efforts have been directed toward further refinement of the definition of "algorithm", and activity is on-going because of issues surrounding, in particular,&nbsp;<a title="Foundations of mathematics" href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundations of mathematics</a>&nbsp;(especially the&nbsp;<a title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a>) and&nbsp;<a title="Philosophy of mind" href="https://en.wikipedia.org/wiki/Philosophy_of_mind">philosophy of mind</a>&nbsp;(especially arguments about&nbsp;<a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>). For more, see&nbsp;<a title="Algorithm characterizations" href="https://en.wikipedia.org/wiki/Algorithm_characterizations">Algorithm characterizations</a>.</p>
+</br>
+
+<h2 id ="Books">Books </h2>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(1).pdf" style="text-decoration:none;">Algorithmic Trading: Winning Strategies and Their Rationale</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(2).pdf" style="text-decoration:none;">Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(3).pdf" style="text-decoration:none;">Data Mining Algorithms in C++</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(4).pdf" style="text-decoration:none;">Data Science Algorithms in a Week</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(5).pdf" style="text-decoration:none;">Data Structures and Algorithms in Python</a></li>
+
+
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(6).pdf" style="text-decoration:none;">Data Structures and Algorithms in Java</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(7).pdf" style="text-decoration:none;">High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(8).rar" style="text-decoration:none;">Computer Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(9).pdf" style="text-decoration:none;">Introduction to Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(10).pdf" style="text-decoration:none;">JavaScript Data Structures and Algorithms</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(11).pdf" style="text-decoration:none;">Python Algorithms: Mastering Basic Algorithms in the Python Language</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(12).pdf" style="text-decoration:none;">Visual QuickStart Guide: jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(13).pdf" style="text-decoration:none;">Sams Teach Yourself Data Structures and Algorithms in 24 Hours</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(14).pdf" style="text-decoration:none;">Algorithms For Dummies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(15).pdf" style="text-decoration:none;">Algorithms in C</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(16).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(17).pdf" style="text-decoration:none;">grokking algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(18).pdf" style="text-decoration:none;">How to Think About Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(19).pdf" style="text-decoration:none;">jQuery Hotshot</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(20).pdf" style="text-decoration:none;">jQuery Mobile Cookbook</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(21).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(22).pdf" style="text-decoration:none;">jQuery UI 1.6: The User Interface Library for jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(23).pdf" style="text-decoration:none;">jQuery UI 1.8: The User Interface Library for jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(24).pdf" style="text-decoration:none;">jQuery UI 1.10: The User Interface Library for jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(25).pdf" style="text-decoration:none;">jQuery UI in Action</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(26).pdf" style="text-decoration:none;">Jquery UI in Action : Master the Concepts of Jquery</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(27).pdf" style="text-decoration:none;">jQuery: Novice to Ninja: New Kicks And Tricks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(28).pdf" style="text-decoration:none;">jQuery: Ajax Made Easy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(29).pdf" style="text-decoration:none;">jQuery Cookbook</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(30).pdf" style="text-decoration:none;">Learning jQuery</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(31).pdf" style="text-decoration:none;">Mastering jQuery</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(32).pdf" style="text-decoration:none;">Practical jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(33).pdf" style="text-decoration:none;">Pro jQuery in Oracle Application Express</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(34).pdf" style="text-decoration:none;">Pro PHP and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(35).pdf" style="text-decoration:none;">Professional jQuery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(36).pdf" style="text-decoration:none;">Smashing JQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(37).pdf" style="text-decoration:none;">Wordpress 3.0 jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(38).pdf" style="text-decoration:none;">jQuery and JavaScript Phrasebook</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(39).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(40).pdf" style="text-decoration:none;">jQuery Pocket Reference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(41).pdf" style="text-decoration:none;">jQuery Recipes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(42).pdf" style="text-decoration:none;">jQuery Succinctly</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(43).pdf" style="text-decoration:none;">The jQuery UI CSS Framework and ThemeRoller</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(44).pdf" style="text-decoration:none;">Mastering jQuery UI</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(45).pdf" style="text-decoration:none;">Creating Mobile Apps with jQuery Mobile</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(46).pdf" style="text-decoration:none;">Beyond jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(47).pdf" style="text-decoration:none;">jQuery Mobile: Up and Running</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(48).pdf" style="text-decoration:none;">jQuery 2.0 Development Cookbook</a></li>  
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(49).pdf" style="text-decoration:none;">jQuery 1.4 Plugin Development</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(50).pdf" style="text-decoration:none;">jQuery Pocket Primer</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(51).pdf" style="text-decoration:none;">Pro SharePoint with jQuery</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(52).pdf" style="text-decoration:none;">The Joy of jQuery: A Beginner's Guide to the World's Most Popular Javascript Library</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(53).pdf" style="text-decoration:none;">Professional XMPP Programming with JavaScript and jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(54).pdf" style="text-decoration:none;">Sams Teach Yourself jQuery Mobile in 24 Hours</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(55).pdf" style="text-decoration:none;">Smashing JQuery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(56).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(57).pdf" style="text-decoration:none;">CoffeeScript Programming with jQuery, Rails, and Node.js</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(58).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(59).pdf" style="text-decoration:none;">Extending jQuery</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(60).pdf" style="text-decoration:none;">Introduction to jQuery</a></li>
+
+
+
+</ul>
+
+</br>
