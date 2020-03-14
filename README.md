@@ -570,7 +570,7 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(11).pdf" style="text-decoration:none;">Python Algorithms: Mastering Basic Algorithms in the Python Language</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(12).pdf" style="text-decoration:none;">Visual QuickStart Guide: jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(12).pdf" style="text-decoration:none;">Algorithms and Theory of Computation Handbook</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(13).pdf" style="text-decoration:none;">Sams Teach Yourself Data Structures and Algorithms in 24 Hours</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(14).pdf" style="text-decoration:none;">Algorithms For Dummies</a></li>                              
@@ -581,17 +581,17 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(17).pdf" style="text-decoration:none;">grokking algorithms</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(18).pdf" style="text-decoration:none;">How to Think About Algorithms</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(19).pdf" style="text-decoration:none;">jQuery Hotshot</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(20).pdf" style="text-decoration:none;">jQuery Mobile Cookbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(19).pdf" style="text-decoration:none;">Algorithms Illuminated, Part 2: Graph Algorithms and Data Structures</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(20).pdf" style="text-decoration:none;">Algorithms Illuminated, Part 1: The Basics</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(21).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(21).pdf" style="text-decoration:none;">Decision Making in Medicine: An Algorithmic Approach</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(22).pdf" style="text-decoration:none;">jQuery UI 1.6: The User Interface Library for jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(22).pdf" style="text-decoration:none;">Essential Algorithms: A Practical Approach to Computer Algorithms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(23).pdf" style="text-decoration:none;">jQuery UI 1.8: The User Interface Library for jQuery</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(24).pdf" style="text-decoration:none;">jQuery UI 1.10: The User Interface Library for jQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(25).pdf" style="text-decoration:none;">jQuery UI in Action</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(23).rar" style="text-decoration:none;">Evolutionary Algorithms in Engineering and Computer Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(24).pdf" style="text-decoration:none;">Fundamentals of Computer Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(25).pdf" style="text-decoration:none;">Learning Algorithms Through Programming and Puzzle Solving</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(26).pdf" style="text-decoration:none;">Jquery UI in Action : Master the Concepts of Jquery</a></li>
