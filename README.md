@@ -636,16 +636,16 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(51).pdf" style="text-decoration:none;">Quantitative Trading: Algorithms, Analytics, Data, Models, Optimization</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(52).pdf" style="text-decoration:none;">Successful Algorithmic Trading</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(53).pdf" style="text-decoration:none;">Understanding Machine Learning: From Theory to Algorithms</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(54).pdf" style="text-decoration:none;">Sams Teach Yourself jQuery Mobile in 24 Hours</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(55).pdf" style="text-decoration:none;">Smashing JQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(54).pdf" style="text-decoration:none;">Algorithm Engineering: Bridging the Gap between Algorithm Theory and Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(55).pdf" style="text-decoration:none;">Algorithmic Foundations of Robotics XI: Selected Contributions of the Eleventh International Workshop on the Algorithmic Foundations of Robotics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(56).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(57).pdf" style="text-decoration:none;">CoffeeScript Programming with jQuery, Rails, and Node.js</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(56).pdf" style="text-decoration:none;">Algorithms in C++: Part 5: Graph Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(57).pdf" style="text-decoration:none;">Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(58).pdf" style="text-decoration:none;">A Software Engineer Learns HTML5, JavaScript and jQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(59).pdf" style="text-decoration:none;">Extending jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(58).pdf" style="text-decoration:none;">Machine Learning Models and Algorithms for Big Data Classification</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(59).pdf" style="text-decoration:none;">Practical Algorithms in Pediatric Hematology and Oncology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(60).pdf" style="text-decoration:none;">Introduction to jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(60).pdf" style="text-decoration:none;">Search and Optimization by Metaheuristics: Techniques and Algorithms Inspired by Nature</a></li>
 
 
 
