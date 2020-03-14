@@ -594,25 +594,25 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(25).pdf" style="text-decoration:none;">Learning Algorithms Through Programming and Puzzle Solving</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(26).pdf" style="text-decoration:none;">Jquery UI in Action : Master the Concepts of Jquery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(26).pdf" style="text-decoration:none;">Data Structures and Algorithms for Big Databases</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(27).pdf" style="text-decoration:none;">jQuery: Novice to Ninja: New Kicks And Tricks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(27).pdf" style="text-decoration:none;">Algorithms to Live By</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(28).pdf" style="text-decoration:none;">jQuery: Ajax Made Easy</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(29).pdf" style="text-decoration:none;">jQuery Cookbook</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(30).pdf" style="text-decoration:none;">Learning jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(28).pdf" style="text-decoration:none;">Foundations of Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(29).pdf" style="text-decoration:none;">Guide to Competitive Programming: Learning and Improving Algorithms Through Contests</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(30).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(31).pdf" style="text-decoration:none;">Mastering jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(31).pdf" style="text-decoration:none;">Machine Learning: An Algorithmic Perspective</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(32).pdf" style="text-decoration:none;">Practical jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(32).pdf" style="text-decoration:none;">Statistical Arbitrage: Algorithmic Trading Insights and Techniques</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(33).pdf" style="text-decoration:none;">Pro jQuery in Oracle Application Express</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(34).pdf" style="text-decoration:none;">Pro PHP and jQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(35).pdf" style="text-decoration:none;">Professional jQuery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(33).pdf" style="text-decoration:none;">The Algorithm Design Manual</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(34).pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 1: Fundamental Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(35).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 2: Seminumerical Algorithms</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(36).pdf" style="text-decoration:none;">Smashing JQuery</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(37).pdf" style="text-decoration:none;">Wordpress 3.0 jQuery</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(36).pdf" style="text-decoration:none;">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(37).pdf" style="text-decoration:none;">Think Data Structures: Algorithms and Information Retrieval in Java</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(38).pdf" style="text-decoration:none;">jQuery and JavaScript Phrasebook</a></li>
                             
