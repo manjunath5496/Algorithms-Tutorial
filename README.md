@@ -543,6 +543,24 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 <p>A number of efforts have been directed toward further refinement of the definition of "algorithm", and activity is on-going because of issues surrounding, in particular,&nbsp;<a title="Foundations of mathematics" href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundations of mathematics</a>&nbsp;(especially the&nbsp;<a title="Church&ndash;Turing thesis" href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a>) and&nbsp;<a title="Philosophy of mind" href="https://en.wikipedia.org/wiki/Philosophy_of_mind">philosophy of mind</a>&nbsp;(especially arguments about&nbsp;<a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>). For more, see&nbsp;<a title="Algorithm characterizations" href="https://en.wikipedia.org/wiki/Algorithm_characterizations">Algorithm characterizations</a>.</p>
 </br>
 
+<ul>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(95).pdf" style="text-decoration:none;">Moral Ecology Approaches to Machine Ethics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(96).pdf" style="text-decoration:none;">Shannon-Fano-Elias Coding</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(97).pdf" style="text-decoration:none;">Algorithms: A Quest for Absolute Definitions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(98).pdf" style="text-decoration:none;">Speeded-Up Robust Features (SURF)</a></li>
+
+ <li><a target="_blank" href="https://en.wikipedia.org/wiki/List_of_algorithms" style="text-decoration:none;">List of algorithms</a></li>
+ 
+ 
+ </ul>
+
+
+
+
+
 <h2 id ="Books">Books </h2>
 <ul>
 
