@@ -647,6 +647,41 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(60).pdf" style="text-decoration:none;">Search and Optimization by Metaheuristics: Techniques and Algorithms Inspired by Nature</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(61).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(62).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(63).pdf" style="text-decoration:none;">Binary Quadratic Forms: An Algorithmic Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(64).pdf" style="text-decoration:none;">Encyclopedia of Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(65).pdf" style="text-decoration:none;">Fast Fourier Transform: Algorithms and Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(66).pdf" style="text-decoration:none;">First Course in Algorithms Through Puzzles</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(67).pdf" style="text-decoration:none;">Genetic Algorithms in Java Basics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(68).pdf" style="text-decoration:none;">Geometric Algorithms and Combinatorial Optimization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(69).pdf" style="text-decoration:none;">Mastering Algorithms with C</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(70).pdf" style="text-decoration:none;">Modern Algorithms for Image Processing: Computer Imagery by Example Using C#</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(71).pdf" style="text-decoration:none;">Once Upon an Algorithm: How Stories Explain Computing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(72).pdf" style="text-decoration:none;">Algorithms Unlocked</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(73).rar" style="text-decoration:none;">Machine Learning Refined: Foundations, Algorithms, and Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(74).pdf" style="text-decoration:none;">The Algorithmic Beauty of Plants</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(75).pdf" style="text-decoration:none;">Algorithm Design and Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(76).pdf" style="text-decoration:none;">Bioinformatics Algorithms: An Active Learning Approach: 2nd Edition, Vol. I</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(77).pdf" style="text-decoration:none;">Embedded Deep Learning: Algorithms, Architectures and Circuits for Always-on Neural Network Processing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(78).pdf" style="text-decoration:none;">Graphs, Networks and Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(79).pdf" style="text-decoration:none;">Harmony Search Algorithm: Proceedings of the 3rd International Conference on Harmony Search Algorithm (ICHSA 2017)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(80).pdf" style="text-decoration:none;">A Practical Introduction to Data Structures and Algorithm Analysis</a></li>
+
+
+
+
+
+
+
 
 
 </ul>
