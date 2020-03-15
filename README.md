@@ -677,9 +677,26 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(80).pdf" style="text-decoration:none;">A Practical Introduction to Data Structures and Algorithm Analysis</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(81).pdf" style="text-decoration:none;">TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(82).pdf" style="text-decoration:none;">The Logic of Logistics: Theory, Algorithms, and Applications for Logistics and Supply Chain Management </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(83).pdf" style="text-decoration:none;">Algorithms and Parallel Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(84).pdf" style="text-decoration:none;">Algorithms for Sensor Systems: 14th International Symposium on Algorithms and Experiments for Wireless Sensor Networks, ALGOSENSORS 2018 Helsinki, Finland, August 23–24, 2018 Revised Selected Papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(85).pdf" style="text-decoration:none;">Approximation Algorithms for Complex Systems</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(86).pdf" style="text-decoration:none;">Artificial Intelligence: A Modern Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(87).pdf" style="text-decoration:none;">Classification Algorithms for Codes and Designs</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(88).rar" style="text-decoration:none;">Computer Vision: Algorithms and Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(89).rar" style="text-decoration:none;">Fundamentals of Robotic Mechanical Systems: Theory, Methods, and Algorithms</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(90).pdf" style="text-decoration:none;">Hierarchical Bayesian Optimization Algorithm: Toward a New Generation of Evolutionary Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(91).pdf" style="text-decoration:none;">Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(92).pdf" style="text-decoration:none;">Machine Learning: The New AI</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(93).pdf" style="text-decoration:none;">Mathematics of Multidimensional Fourier Transform Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/alg(94).pdf" style="text-decoration:none;">AI for Data Science: Artificial Intelligence Frameworks and Functionality for Deep Learning, Optimization, and Beyond</a></li>
 
 
 
