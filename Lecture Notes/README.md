@@ -232,11 +232,9 @@
 </br>
 <h2>Assignments: programming with examples </h2>
 
-
 <table summary="See table caption for summary.">
 <thead>
 <tr>
-<th scope="col">ASSN&nbsp;#</th>
 <th scope="col">TOPICS</th>
 <th scope="col">PROBLEM SETS</th>
 <th scope="col">SOLUTIONS</th>
@@ -244,7 +242,6 @@
 </thead>
 <tbody>
 <tr class="row">
-<td>1</td>
 <td>Asymptotic complexity, recurrence relations, peak finding</td>
 <td>
 <p><a href="MIT6_006F11_ps1.pdf" data-smd-id="s115">Problem Set 1 (PDF)</a></p>
@@ -253,7 +250,6 @@
 <td><a href="MIT6_006F11_ps1_sol.pdf" data-smd-id="s117">Problem Set 1 Solutions (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td>2</td>
 <td>Fractal rendering, digital circuit simulation</td>
 <td>
 <p><a href="MIT6_006F11_ps2.pdf" data-smd-id="s118">Problem Set 2 (PDF)</a></p>
@@ -265,7 +261,6 @@
 </td>
 </tr>
 <tr class="row">
-<td>3</td>
 <td>Range queries, digital circuit layout</td>
 <td>
 <p><a href="MIT6_006F11_ps3.pdf" data-smd-id="s122">Problem Set 3 (PDF)</a></p>
@@ -277,7 +272,6 @@
 </td>
 </tr>
 <tr class="alt-row">
-<td>4</td>
 <td>Hash functions, Python dictionaries, matching DNA sequences</td>
 <td>
 <p><a href="MIT6_006F11_ps4.pdf" data-smd-id="s126">Problem Set 4 (PDF)</a></p>
@@ -289,7 +283,6 @@
 </td>
 </tr>
 <tr class="row">
-<td>5</td>
 <td>The Knight's Shield, RSA public key encryption, image decryption</td>
 <td>
 <p><a href="MIT6_006F11_ps5.pdf" data-smd-id="s130">Problem Set 5 (PDF)</a></p>
@@ -302,7 +295,6 @@
 </td>
 </tr>
 <tr class="alt-row">
-<td>6</td>
 <td>Social networks, Rubik's Cube, Dijkstra</td>
 <td>
 <p><a href="MIT6_006F11_ps6.pdf" data-smd-id="s135">Problem Set 6 (PDF)</a></p>
@@ -314,7 +306,6 @@
 </td>
 </tr>
 <tr class="row">
-<td>7</td>
 <td>Seam carving, stock purchasing and knapsack</td>
 <td>
 <p><a href="MIT6_006F11_ps7.pdf" data-smd-id="s139">Problem Set 7 (PDF)</a></p>
@@ -330,7 +321,6 @@
 </tr>
 </tbody>
 </table>
-
 
 
 
