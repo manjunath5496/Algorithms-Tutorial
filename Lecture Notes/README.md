@@ -1,3 +1,5 @@
+<h2>Lecture Notes </h2>
+
 <table class="tablewidth75" summary="See table caption for summary.">
 <tbody>
 <tr class="row">
