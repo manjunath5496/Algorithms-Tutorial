@@ -230,4 +230,113 @@
 </table>
 
 </br>
+<h2>Assignments: programming with examples </h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSN&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">PROBLEM SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Asymptotic complexity, recurrence relations, peak finding</td>
+<td>
+<p><a href="MIT6_006F11_ps1.pdf" data-smd-id="s115">Problem Set 1 (PDF)</a></p>
+<p><a href="ps1.zip" data-smd-id="s116">Problem Set 1 Code (ZIP)</a></p>
+</td>
+<td><a href="MIT6_006F11_ps1_sol.pdf" data-smd-id="s117">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Fractal rendering, digital circuit simulation</td>
+<td>
+<p><a href="MIT6_006F11_ps2.pdf" data-smd-id="s118">Problem Set 2 (PDF)</a></p>
+<p><a href="ps2.zip" data-smd-id="s119">Problem Set 2 Code (ZIP)</a></p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps2_sol.pdf" data-smd-id="s120">Problem Set 2 Solutions (PDF)</a></p>
+<p><a href="ps2_code_sol.zip" data-smd-id="s121">Problem Set 2 Code Solutions (ZIP - 7.7MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Range queries, digital circuit layout</td>
+<td>
+<p><a href="MIT6_006F11_ps3.pdf" data-smd-id="s122">Problem Set 3 (PDF)</a></p>
+<p><a href="ps3.zip" data-smd-id="s123">Problem Set 3 Code (ZIP - 3.2MB)</a></p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps3_sol.pdf" data-smd-id="s124">Problem Set 3 Solutions (PDF)</a></p>
+<p><a href="ps3_code_sol.zip" data-smd-id="s125">Problem Set 3 Code Solutions&nbsp;<span class="nobr">(ZIP - 15.7MB)</span></a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Hash functions, Python dictionaries, matching DNA sequences</td>
+<td>
+<p><a href="MIT6_006F11_ps4.pdf" data-smd-id="s126">Problem Set 4 (PDF)</a></p>
+<p><a href="ps4.tar.gz" data-smd-id="s127">Problem Set 4 Code (GZ - 12.4MB)</a>&nbsp;(kfasta.py courtesy of Kevin Kelley, and used with permission.)</p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps4_sol.pdf" data-smd-id="s128">Problem Set 4 Solutions (PDF)</a></p>
+<p><a href="ps4_code_sol.zip" data-smd-id="s129">Problem Set 4 Code Solutions (ZIP)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>The Knight's Shield, RSA public key encryption, image decryption</td>
+<td>
+<p><a href="MIT6_006F11_ps5.pdf" data-smd-id="s130">Problem Set 5 (PDF)</a></p>
+<p><a href="ps5.zip" data-smd-id="s131">Problem Set 5 Code (ZIP)</a></p>
+<p><a href="MIT6_006F11_ps5e.pdf" data-smd-id="s132">Problem Set 5 Grading Explanation (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps5_sol.pdf" data-smd-id="s133">Problem Set 5 Solutions (PDF)</a></p>
+<p><a href="ps5_code_sol.zip" data-smd-id="s134">Problem Set 5 Code Solutions (ZIP)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Social networks, Rubik's Cube, Dijkstra</td>
+<td>
+<p><a href="MIT6_006F11_ps6.pdf" data-smd-id="s135">Problem Set 6 (PDF)</a></p>
+<p><a href="ps6.zip" data-smd-id="s136">Problem Set 6 Code (ZIP - 2.9MB)</a>&nbsp;(nhpn.py courtesy of Punyashloka Biswal and Michael Lieberman; Pocket Cube Solver courtesy of Huan Liu and Anh Nguyen. Used with permission.)</p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps6_sol.pdf" data-smd-id="s137">Problem Set 6 Solutions (PDF)</a></p>
+<p><a href="ps6_code_sol.zip" data-smd-id="s138">Problem Set 6 Code Solutions (ZIP)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Seam carving, stock purchasing and knapsack</td>
+<td>
+<p><a href="MIT6_006F11_ps7.pdf" data-smd-id="s139">Problem Set 7 (PDF)</a></p>
+<p><a href="seamcarving.pdf" data-smd-id="s140">Seam Carving for Content-Aware Image Resizing</a></p>
+<p><a href="ps7_code.zip" data-smd-id="s141">Problem Set 7 Code (ZIP)</a>&nbsp;(Sunset image &copy; source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see&nbsp;<a href="http://ocw.mit.edu/fairuse" data-smd-id="s142">http://ocw.mit.edu/fairuse</a>.)</p>
+<p><a href="ps7_writeup.zip" data-smd-id="s143">Problem Set 7 Answer Template (ZIP)</a></p>
+<p><a href="MIT6_006F11_ps7e.pdf" data-smd-id="s144">Problem Set 7 Grading Explanation (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT6_006F11_ps7_sol.pdf" data-smd-id="s145">Problem Set 7 Solutions (PDF)</a></p>
+<p><a href="ps7_sol.zip" data-smd-id="s146">Problem Set 7 Code Solutions (ZIP)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
 
