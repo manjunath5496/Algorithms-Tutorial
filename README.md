@@ -554,7 +554,7 @@ Alan Turing's statue at&nbsp;<a title="Bletchley Park" href="https://en.wikipedi
 
  <li><a target="_blank" href="https://en.wikipedia.org/wiki/List_of_algorithms" style="text-decoration:none;">List of algorithms</a></li>
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithms-Tutorial/blob/master/Lecture%20Notes/README.md" style="text-decoration:none;">MIT Lecture Notes</a></li>
  </ul>
 
 </br>
