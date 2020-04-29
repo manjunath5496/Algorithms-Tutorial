@@ -204,3 +204,30 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="exams/MIT6_006F11_quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td><a href="exams/MIT6_006F11_quiz1_sol.pdf">Quiz 1 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="exams/MIT6_006F11_quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td><a href="exams/MIT6_006F11_quiz2_sol.pdf">Quiz 2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="exams/MIT6_006F11_final.pdf">Final exam (PDF)</a></td>
+<td><a href="exams/MIT6_006F11_final_sol.pdf">Final exam solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
