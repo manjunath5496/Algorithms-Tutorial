@@ -321,10 +321,36 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2>Video Lecture Transcripts </h2>
 
 
-
-
+<ul>
+<li><a class="bullet medialink" href="1.pdf">Lecture 1: Algorithmic Thinking, Peak Finding</a></li>
+<li><a class="bullet medialink" href="2.pdf">Lecture 2: Models of Computation, Document Distance</a></li>
+<li><a class="bullet medialink" href="3.pdf">Lecture 3: Insertion Sort, Merge Sort</a></li>
+<li><a class="bullet medialink" href="4.pdf">Lecture 4: Heaps and Heap Sort</a></li>
+<li><a class="bullet medialink" href="5.pdf">Lecture 5: Binary Search Trees, BST Sort</a></li>
+<li><a class="bullet medialink" href="6.pdf">Lecture 6: AVL Trees, AVL Sort</a></li>
+<li><a class="bullet medialink" href="7.pdf">Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting</a></li>
+<li><a class="bullet medialink" href="8.pdf">Lecture 8: Hashing with Chaining</a></li>
+<li><a class="bullet medialink" href="9.pdf">Lecture 9: Table Doubling, Karp-Rabin</a></li>
+<li><a class="bullet medialink" href="10.pdf">Lecture 10: Open Addressing, Cryptographic Hashing</a></li>
+<li><a class="bullet medialink" href="11.pdf">Lecture 11: Integer Arithmetic, Karatsuba Multiplication</a></li>
+<li><a class="bullet medialink" href="12.pdf">Lecture 12: Square Roots, Newton's Method</a></li>
+<li><a class="bullet medialink" href="13.pdf">Lecture 13: Breadth-First Search (BFS)</a></li>
+<li><a class="bullet medialink" href="14.pdf">Lecture 14: Depth-First Search (DFS), Topological Sort</a></li>
+<li><a class="bullet medialink" href="15.pdf">Lecture 15: Single-Source Shortest Paths Problem</a></li>
+<li><a class="bullet medialink" href="16.pdf">Lecture 16: Dijkstra</a></li>
+<li><a class="bullet medialink" href="17.pdf">Lecture 17: Bellman-Ford</a></li>
+<li><a class="bullet medialink" href="18.pdf">Lecture 18: Speeding up Dijkstra</a></li>
+<li><a class="bullet medialink" href="19.pdf">Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths</a></li>
+<li><a class="bullet medialink" href="20.pdf">Lecture 20: Dynamic Programming II: Text Justification, Blackjack</a></li>
+<li><a class="bullet medialink" href="21.pdf">Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack</a></li>
+<li><a class="bullet medialink" href="22.pdf">Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros</a></li>
+<li><a class="bullet medialink" href="23.pdf">Lecture 23: Computational Complexity</a></li>
+<li><a class="bullet medialink" href="24.pdf">Lecture 24: Topics in Algorithms Research</a></li>
+</ul>
 
 
 
